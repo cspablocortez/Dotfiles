@@ -192,7 +192,7 @@ bg = "#353b48"
 tab_num = "#e17055"
 # tab_divider: The color of the divider character between tab numbers: |
 # bottombar_label: The color of the prompt that appears when you press space
-bottombar_label = "#778beb"
+bottombar_label = "#ecf0f1"
 # bottombar_text: The color of the text you type
 bottombar_text = "#ecf0f1"
 # bottombar_bg
