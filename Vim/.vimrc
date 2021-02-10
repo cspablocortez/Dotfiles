@@ -23,3 +23,5 @@ set backspace=indent,eol,start
 set showmatch
 set background=dark
 autocmd vimenter * ++nested colorscheme gruvbox
+" esc in insert mode
+inoremap kj <esc>
